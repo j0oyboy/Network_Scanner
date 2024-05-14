@@ -24,7 +24,7 @@ pip install scapy
 To run the script, use the following command:
 
 ``` bash
-python network_scanner.py -t <target IP / IP range>
+python Network-Scanner.py -t <target IP / IP range>
 ```
 
 ## Arguments
@@ -36,5 +36,5 @@ python network_scanner.py -t <target IP / IP range>
 ## Example
 To scan a specific IP range, for example 192.168.1.1/24, use:
 ``` bash
-python network_scanner.py -t 192.168.1.1/24
+python Network-Scanner.py -t 192.168.1.1/24
 ```
