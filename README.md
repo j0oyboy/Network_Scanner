@@ -14,7 +14,7 @@ pip install scapy
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/souhaib-soo/Network-Scanner.git
+    https://github.com/j0oyboy/Network_Scanner.git
     ```
 2. Navigate to the project directory:
     ```bash
